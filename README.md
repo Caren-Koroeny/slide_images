@@ -11,3 +11,5 @@
     * When the next icon on the last image is clicked, it should show the first image.
 
     * When the previous icon on the first image is clicked, it should show the last image. 
+
+![Page Screenshot Preview](/images/Screenshot%20from%202022-11-08%2016-57-54.png)
